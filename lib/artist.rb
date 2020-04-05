@@ -6,7 +6,7 @@ class Artist
   end
 
   def songs
-    nil
+    []
   end
 
 end
