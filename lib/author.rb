@@ -6,6 +6,8 @@ class Author
     @name = name
   end
 
+  def add_post_by_title
+
   def posts
     []
   end
